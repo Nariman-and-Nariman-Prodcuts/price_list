@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Karumbi';
+  src: url('/assets/font/Karumbi-Regular.woff2') format('woff2');
+}
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@400;500;600;700;800&display=swap');
+
+.bg-black{
+ background-color: black;
+}
+
+.text-yellow{
+    color: yellow;
+    font-family: Karumbi; 
+}
+.bg-py{
+  background-color: #fffcd5;
+}
+.text-mal-BC-R{
+  font-family: 'Baloo Chettan 2';
+  font-weight: 400;
+}
+.text-mal-BC-M{
+  font-family: 'Baloo Chettan 2';
+  font-weight: 500;
+}
+.text-mal-BC-SB{
+  font-family: 'Baloo Chettan 2';
+  font-weight: 600;
+}
+.text-mal-BC-B{
+  font-family: 'Baloo Chettan 2';
+  font-weight: 700;
+}
